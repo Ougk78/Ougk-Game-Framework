@@ -4,7 +4,7 @@ SDL3/Box2d C++ game framework that has a perfect balance between simplicity and 
 
 
  **Window**
- * description:
+ ** description:**
 window class desc
 
 * bool operator==(Window window)
